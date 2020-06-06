@@ -1,6 +1,8 @@
 # F0
 Hello, World!
 
+![F0](https://raw.githubusercontent.com/Flash0ver/F0/master/Branding/GitHub/F0.png)
+
 ## External links
 [NuGet Gallery](https://www.nuget.org/profiles/Flash0ver)\
 [Visual Studio Marketplace](https://marketplace.visualstudio.com/publishers/Flash0Ware)\
